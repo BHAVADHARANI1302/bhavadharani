@@ -1,0 +1,113 @@
+[2020-11-25 13:53:15] Executing bootstrap tasks
+[2020-11-25 13:53:15] OpenJDK Runtime Environment 14.0.2+12-46
+[2020-11-25 13:53:15] Product org.eclipse.products.epp.package.java.2020-09
+[2020-11-25 13:53:15] Bundle org.eclipse.oomph.setup 1.18.0.v20200820-0414, build=4828, branch=33d843c1d70f55bcaaf6421eb3af77b98e9fe9c0
+[2020-11-25 13:53:15] Bundle org.eclipse.oomph.setup.core 1.18.0.v20200624-1156, build=4828, branch=33d843c1d70f55bcaaf6421eb3af77b98e9fe9c0
+[2020-11-25 13:53:15] Bundle org.eclipse.oomph.setup.p2 1.16.0.v20200814-1205, build=4828, branch=33d843c1d70f55bcaaf6421eb3af77b98e9fe9c0
+[2020-11-25 13:53:15] Performing P2 Director (Eclipse IDE for Java Developers (2020-09) + JRE 14.0.2)
+[2020-11-25 13:53:15] Offline = false
+[2020-11-25 13:53:15] Mirrors = true
+[2020-11-25 13:53:15] Resolving 17 requirements from 4 repositoriesto C:\Users\ammug\eclipse\java-2020-09\eclipse
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.justj.openjdk.hotspot.jre.full.feature.group
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:epp.package.java [4.17.0,5.0.0)
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.platform.feature.group [4.17.0,5.0.0)
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.rcp.feature.group [4.17.0,5.0.0)
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.buildship.feature.group
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.eclemma.feature.feature.group
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.egit.feature.group
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.epp.mpc.feature.group
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jdt.feature.group
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jgit.feature.group
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.feature.feature.group
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.lemminx.feature.feature.group
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.logback.feature.feature.group
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.wikitext.editors_feature.feature.group
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.tips.feature.feature.group
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.wildwebdeveloper.xml.feature.feature.group
+[2020-11-25 13:53:15] Requirement org.eclipse.equinox.p2.iu:org.eclipse.oomph.setup.feature.group
+[2020-11-25 13:53:15] Repository http://download.eclipse.org/justj/jres/14/updates/release/14.0.2
+[2020-11-25 13:53:15] Repository http://download.eclipse.org/technology/epp/packages/2020-09/202009101200
+[2020-11-25 13:53:15] Repository http://download.eclipse.org/releases/2020-09/202009161000
+[2020-11-25 13:53:15] Repository http://download.eclipse.org/oomph/updates/milestone/latest
+[2020-11-25 13:53:22] 
+[2020-11-25 13:53:42] Executing bootstrap tasks
+[2020-11-25 13:53:42] OpenJDK Runtime Environment 14.0.2+12-46
+[2020-11-25 13:53:42] Product org.eclipse.products.epp.package.java.2020-09
+[2020-11-25 13:53:42] Bundle org.eclipse.oomph.setup 1.18.0.v20200820-0414, build=4828, branch=33d843c1d70f55bcaaf6421eb3af77b98e9fe9c0
+[2020-11-25 13:53:42] Bundle org.eclipse.oomph.setup.core 1.18.0.v20200624-1156, build=4828, branch=33d843c1d70f55bcaaf6421eb3af77b98e9fe9c0
+[2020-11-25 13:53:42] Bundle org.eclipse.oomph.setup.p2 1.16.0.v20200814-1205, build=4828, branch=33d843c1d70f55bcaaf6421eb3af77b98e9fe9c0
+[2020-11-25 13:53:42] Performing P2 Director (Eclipse IDE for Java Developers (2020-09) + JRE 14.0.2)
+[2020-11-25 13:53:42] Offline = false
+[2020-11-25 13:53:42] Mirrors = true
+[2020-11-25 13:53:42] Resolving 17 requirements from 4 repositoriesto C:\Users\ammug\eclipse\java-2020-09\eclipse
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.justj.openjdk.hotspot.jre.full.feature.group
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:epp.package.java [4.17.0,5.0.0)
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.platform.feature.group [4.17.0,5.0.0)
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.rcp.feature.group [4.17.0,5.0.0)
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.buildship.feature.group
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.eclemma.feature.feature.group
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.egit.feature.group
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.epp.mpc.feature.group
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jdt.feature.group
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jgit.feature.group
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.feature.feature.group
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.lemminx.feature.feature.group
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.logback.feature.feature.group
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.wikitext.editors_feature.feature.group
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.tips.feature.feature.group
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.wildwebdeveloper.xml.feature.feature.group
+[2020-11-25 13:53:42] Requirement org.eclipse.equinox.p2.iu:org.eclipse.oomph.setup.feature.group
+[2020-11-25 13:53:42] Repository http://download.eclipse.org/justj/jres/14/updates/release/14.0.2
+[2020-11-25 13:53:42] Repository http://download.eclipse.org/technology/epp/packages/2020-09/202009101200
+[2020-11-25 13:53:42] Repository http://download.eclipse.org/releases/2020-09/202009161000
+[2020-11-25 13:53:42] Repository http://download.eclipse.org/oomph/updates/milestone/latest
+[2020-11-25 13:54:09] ERROR: org.eclipse.oomph.p2.core code=0 java.lang.IllegalStateException: BundleContext is no longer valid org.eclipse.equinox.p2.repository_2.4.800.v20200813-0739 [100]
+org.eclipse.oomph.util.ReflectUtil$ReflectionException: java.lang.IllegalStateException: BundleContext is no longer valid org.eclipse.equinox.p2.repository_2.4.800.v20200813-0739 [100]
+  at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:134)
+  at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.basicGetRepository(CachingRepositoryManager.java:350)
+  at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:178)
+  at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:495)
+  at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+  at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl.collectRepositories(ProfileTransactionImpl.java:833)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl.resolve(ProfileTransactionImpl.java:382)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl.commit(ProfileTransactionImpl.java:340)
+  at org.eclipse.oomph.setup.p2.impl.P2TaskImpl.perform(P2TaskImpl.java:899)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.doPerformNeededSetupTasks(SetupTaskPerformer.java:3828)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.performNeededSetupTasks(SetupTaskPerformer.java:3756)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.performTriggeredSetupTasks(SetupTaskPerformer.java:3737)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.perform(SetupTaskPerformer.java:3630)
+  at org.eclipse.oomph.setup.internal.installer.SimpleVariablePage.installPerform(SimpleVariablePage.java:1343)
+  at org.eclipse.oomph.setup.internal.installer.SimpleVariablePage.access$33(SimpleVariablePage.java:1211)
+  at org.eclipse.oomph.setup.internal.installer.SimpleVariablePage$20.run(SimpleVariablePage.java:1156)
+Caused by: java.lang.IllegalStateException: BundleContext is no longer valid org.eclipse.equinox.p2.repository_2.4.800.v20200813-0739 [100]
+  at org.eclipse.osgi.internal.framework.BundleContextImpl.checkValid(BundleContextImpl.java:1027)
+  at org.eclipse.osgi.internal.framework.BundleContextImpl.getServiceReference(BundleContextImpl.java:595)
+  at org.eclipse.osgi.internal.framework.BundleContextImpl.getServiceReference(BundleContextImpl.java:1057)
+  at org.eclipse.equinox.internal.p2.core.helpers.ServiceHelper.getService(ServiceHelper.java:32)
+  at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getSharedPreferences(AbstractRepositoryManager.java:512)
+  at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.restoreRepositories(AbstractRepositoryManager.java:1022)
+  at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.basicGetRepository(AbstractRepositoryManager.java:182)
+  at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+  at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+  at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+  at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:119)
+  at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.basicGetRepository(CachingRepositoryManager.java:350)
+  at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:178)
+  at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:495)
+  at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+  at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl.collectRepositories(ProfileTransactionImpl.java:833)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl.resolve(ProfileTransactionImpl.java:382)
+  at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl.commit(ProfileTransactionImpl.java:340)
+  at org.eclipse.oomph.setup.p2.impl.P2TaskImpl.perform(P2TaskImpl.java:899)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.doPerformNeededSetupTasks(SetupTaskPerformer.java:3828)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.performNeededSetupTasks(SetupTaskPerformer.java:3756)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.performTriggeredSetupTasks(SetupTaskPerformer.java:3737)
+  at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.perform(SetupTaskPerformer.java:3630)
+  at org.eclipse.oomph.setup.internal.installer.SimpleVariablePage.installPerform(SimpleVariablePage.java:1343)
+  at org.eclipse.oomph.setup.internal.installer.SimpleVariablePage.access$33(SimpleVariablePage.java:1211)
+  ... 1 more
+
+[2020-11-25 13:54:09] 
